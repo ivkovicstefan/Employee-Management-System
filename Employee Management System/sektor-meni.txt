@@ -1,0 +1,15 @@
+                                                          
+                         SEKTORI                          
+                                                          
+                                                          
+                  1 - Prikazi sektore                     
+                                                          
+                  2 - Novi sektor                         
+                                                          
+                  3 - Izbrisi sektor                      
+                                                          
+                  0 - Nazad na glavni meni                
+                                                          
+                                                          
+       Izaberite stavku unosom odgovarajuceg broja.       
+                                                          

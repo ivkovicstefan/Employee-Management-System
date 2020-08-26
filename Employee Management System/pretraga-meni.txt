@@ -1,0 +1,21 @@
+                                                          
+                    PRETRAGA RADNIKA                      
+                                                          
+                                                          
+           1 - Prikazi sve radnike                        
+                                                          
+           2 - Pretraga radnika po sektoru                
+                                                          
+           3 - Filtriraj radnike po                       
+               mestu stanovanja                           
+                                                          
+           4 - Filtriraj radnike po                       
+               kvalifikaciji                              
+                                                          
+           5 - Primeni vise filtera                        
+                                                          
+           0 - Nazad                                      
+                                                          
+                                                          
+       Izaberite stavku unosom odgovarajuceg broja.       
+                                                          

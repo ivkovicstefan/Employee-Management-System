@@ -1,0 +1,15 @@
+                                                          
+                      GLAVNI MENI                         
+                                                          
+                                                          
+                1 - Podesavanje kompanije                 
+                                                          
+                2 - Podesavanje sektora                   
+                                                          
+                3 - Radnici                               
+                                                          
+                0 - Zatvori program                       
+                                                          
+                                                          
+       Izaberite stavku unosom odgovarajuceg broja.       
+                                                          

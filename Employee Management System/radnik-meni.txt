@@ -1,0 +1,20 @@
+                                                          
+                         RADNICI                          
+                                                          
+                                                          
+                 1 - Pretraga radnika                     
+                                                          
+                 2 - Novi radnik                          
+                                                          
+                 3 - Izmeni radnika                       
+                                                          
+                 4 - Premesti radnike                     
+       (prebaci sve radnike iz jednog sektora u drugi)    
+                                                          
+                 5 - Izbrisi radnika                      
+                                                          
+                 0 - Nazad na glavni meni                 
+                                                          
+                                                          
+       Izaberite stavku unosom odgovarajuceg broja.       
+                                                          

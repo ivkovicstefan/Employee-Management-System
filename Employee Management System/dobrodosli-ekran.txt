@@ -1,0 +1,14 @@
+                                                          
+                        DOBRODOSAO!                       
+                                                          
+                                                          
+                 1 - Kreiraj kompaniju                    
+                                                          
+                 2 - Povrati kompaniju                    
+        (pokusaj da vratis izbrisanu kompaniju)           
+                                                          
+                 0 - Zatvori program                      
+                                                          
+                                                          
+       Izaberite stavku unosom odgovarajuceg broja.       
+                                                          

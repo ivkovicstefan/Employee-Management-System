@@ -1,0 +1,15 @@
+                                                          
+                       KOMPANIJA                          
+                                                          
+                                                          
+                 1 - Prikazi podatke                      
+                                                          
+                 2 - Promeni podatke                      
+                                                          
+                 3 - Izbrisi kompaniju                    
+                                                          
+                 0 - Nazad na glavni meni                 
+                                                          
+                                                          
+       Izaberite stavku unosom odgovarajuceg broja.       
+                                                          
